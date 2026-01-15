@@ -1,0 +1,18 @@
+A data types tells the compiler 
+what kind of data a variable will store 
+How much memory it will use 
+what operation can be perfomed on it 
+
+
+primitive data types 
+
+int > stores whole number (no decimals)
+ussually 4 bytes
+
+float >stores decimal value but less precision 
+y bytes
+
+Double> stores large decimal numbers with high precison 
+8bytes
+
+double 
