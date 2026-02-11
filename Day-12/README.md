@@ -22,3 +22,30 @@ pointers are used for
 3.Dynamic memory Allocations 
 4.Arrays and data structueres (link ,list ,trees)
 5.direct memory access 
+
+Empty pointers 
+
+Sometimes in programming you dont yet know what variable a pointer will point to 
+
+You plan to assign it latere .
+you want to reserve space for future memory allocation 
+instead of immediately point to something ,we create an empty ponter 
+
+Real life Analogy 
+
+📱 A contact saved in your phone.
+
+Normally:
+
+A contact stores someone’s phone number.
+
+But what if:
+
+You create a contact name but haven’t added the number yet?
+
+That contact is “empty.”
+
+Similarly:
+
+An empty pointer is declared but does not point to any valid memory.
+
